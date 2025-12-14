@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:2 tvg-id="Originals3x3" tvg-logo="http://192.168.0.10:8080/3x3LogoFaces.png" ,3x3 Originals
+https://github.com/minisofting/IPTV3x3/blob/main/indexMTS.mts
