@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv> generator-info-name="DeepSeek AI">
+  <channel id="3x3">
+    <display-name>3x3</display-name>
+  </channel>
+  <programme start="20241214000000 +0300" stop="20991231235959 +0300" channel="3x3">
+    <title>Эфир Телеканала 3x3</title>
+    <desc>Эфир телеканала 3x3 24/7 без остановок</desc>
+  </programme>
+</tv>
